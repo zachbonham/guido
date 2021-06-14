@@ -25,5 +25,6 @@ I know it sounds silly, but what am I looking to get out of YAGNI ("yet another 
 - Integration tests
 - Performance tests
     - https://locust.io
+- Security scans/checks
 
 
