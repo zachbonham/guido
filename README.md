@@ -9,10 +9,10 @@ I know it sounds silly, but what am I looking to get out of YAGNI ("yet another 
 - Unique named instance
 - As a Function on Azure and On Premise
 - Infrastructure as Code
-    - pulumi.com
+    - https://pulumi.com
     - https://docs.microsoft.com/en-us/learn/paths/bicep-deploy
 - CI/CD pipeline
-- Daper.io
+- https://dapr.io
 - Input / Output bindings for dapr.io?
 - Client Rate Limiting
 - Administrator "Add to Workspace" (e.g. for Discord, Slack, Teams) page
@@ -24,6 +24,6 @@ I know it sounds silly, but what am I looking to get out of YAGNI ("yet another 
 - Test plan
 - Integration tests
 - Performance tests
-    - locust.io
+    - https://locust.io
 
 
