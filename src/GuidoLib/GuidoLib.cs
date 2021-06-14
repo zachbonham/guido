@@ -1,10 +1,10 @@
-﻿using System;
-
-namespace GuidoLib
+﻿namespace GuidoLib
 {
+    using System;
+
     public class Guido
     {
-        public static Guid NextGuid() 
+        public static Guid NextGuid()
         {
             return Guid.NewGuid();
         }
