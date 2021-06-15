@@ -1,0 +1,11 @@
+{
+    "settings": {
+      "documentationRules": {
+        "companyName": "Zach Bonham",
+        "copyrightText": "Copyright (c) {companyName}. All rights reserved.",
+        "headerDecoration": "-----------------------------------------------------------------------",
+        "xmlHeader": false,
+        "fileNamingConvention": "metadata"
+      }
+    }
+  }
