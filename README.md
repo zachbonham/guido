@@ -4,7 +4,7 @@ Guid bot for Discord, Slack, Teams!  Start as an MVP and scale to production-lik
 # Goals
 I know it sounds silly, but what am I looking to get out of YAGNI ("yet another guid instance")?  
 
-- .NET Core
+- :heavy_check_mark: .NET Core
 - Project organization likely to be seen in The Enterprise
 - Unique named instance
 - As a Function on Azure and On Premise
