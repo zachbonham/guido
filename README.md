@@ -12,6 +12,7 @@ I know it sounds silly, but what am I looking to get out of YAGNI ("yet another 
     - https://pulumi.com
     - https://docs.microsoft.com/en-us/learn/paths/bicep-deploy
 - CI/CD pipeline
+    -  :heavy_check_mark: Add GitHub action for GuidoLib
 - https://dapr.io
 - Input / Output bindings for dapr.io?
 - Client Rate Limiting
