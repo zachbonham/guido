@@ -1,4 +1,3 @@
-
 namespace GuidoApi.Controllers
 {
     using System;
@@ -12,12 +11,11 @@ namespace GuidoApi.Controllers
     [Route("[controller]")]
     public class GuidoController : ControllerBase
     {
-        
-        private readonly ILogger<GuidoController> _logger;
+        private readonly ILogger<GuidoController> logger;
 
         public GuidoController(ILogger<GuidoController> logger)
         {
-            _logger = logger;
+            this.logger = logger;
         }
 
         [HttpGet]

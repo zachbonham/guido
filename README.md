@@ -14,6 +14,7 @@ I know it sounds silly, but what am I looking to get out of YAGNI ("yet another 
 - CI/CD pipeline
     -  :heavy_check_mark: Add GitHub action for GuidoLib
 - https://dapr.io
+    - :heavy_check_mark: Add GuidoApi controoler
 - Input / Output bindings for dapr.io?
 - Client Rate Limiting
 - Administrator "Add to Workspace" (e.g. for Discord, Slack, Teams) page
