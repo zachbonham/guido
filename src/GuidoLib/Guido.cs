@@ -4,7 +4,7 @@
 
     public class Guido
     {
-        public static Guid NextGuid()
+        public static Guid NewGuid()
         {
             return Guid.NewGuid();
         }
