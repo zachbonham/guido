@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/src/GuidoLib/GuidoLib.csproj",
+                "${workspaceFolder}/src/GuidoApi/GuidoApi.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/src/GuidoLib/GuidoLib.csproj",
+                "${workspaceFolder}/src/GuidoApi/GuidoApi.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/src/GuidoLib/GuidoLib.csproj",
+                "${workspaceFolder}/src/GuidoApi/GuidoApi.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
